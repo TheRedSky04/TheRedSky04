@@ -1,5 +1,5 @@
 # 👋 Salut, moi c'est Loucas Bise !
-### 🎮 Développeur Gameplay en devenir | Créateur de Projets sur Unreal Engine 5
+### 🎮 Développeur Gameplay | Fondateur de DreamStudio | Projets Unreal Engine 5
 
 Passionné par le développement de jeux vidéo, je suis un jeune développeur qui cherche constamment à apprendre, à progresser et à donner vie à ses idées.
 
@@ -10,34 +10,41 @@ Passionné par le développement de jeux vidéo, je suis un jeune développeur q
 * 🕹️ **Moteur principal :** Unreal Engine 5 
 * 🧠 **Programmation :** Blueprints (Maîtrise avancée), C++ (Apprentissage & Exploration en cours)
 * ⚙️ **Gestion & Versioning :** Git, Rider
-* 🎨 **Focus Technique :** Gameplay, mécaniques de jeu, systèmes interactifs et création d'expériences immersives.
 
 ---
 
-## 🚀 Mes Projets & Templates
+## 🚀 Mes Projets Phares
 
-### 📦 TemplateUnreal5.8
-* **Description :** Un template de démarrage Unreal Engine 5.8 propre et optimisé pour le versionnage.
-* **Fonctionnalités clés :** 
-  * Structure de dossiers organisée selon les standards professionnels de l'industrie.
-  * Configuration `.gitignore` et Git LFS complète (bloque les gigaoctets de cache tout en sécurisant les assets `.uasset` et `.umap`).
-  * Sauvegarde permanente des couleurs de dossiers de l'éditeur pour une arborescence visuelle claire.
+### 🔮 Powerix — Jeu multijoueur basé sur des pouvoirs
+*Projet de jeu de combat multijoueur où les joueurs exploitent diverses capacités pour prendre l'avantage sur leurs adversaires.*
+* **Mécaniques développées :** 
+  * Création de murs défensifs dynamiques.
+  * Projectiles physiques capables de repousser les ennemis (*Knockback*).
+  * Système de déplacement rapide (*Dash*).
+* **Objectifs techniques :** Exploration approfondie de la création de compétences, gestion des temps de recharge (*Cooldowns*), intégration d'effets visuels (VFX), logiques de combat et multijoueur.
 
-*(💡 Astuce : Dès que tu créeras un nouveau jeu ou prototype, ajoute une petite section comme celle-ci avec un lien vers son dépôt public !)*
+### 🌌 DreamStudio — Mon ambition dans le jeu vidéo
+*DreamStudio est la structure et la marque que je développe autour de ma passion pour la création de jeux vidéo.*
+* **Objectif :** Construire progressivement une identité forte, réaliser des projets indépendants originaux et documenter publiquement mon évolution en tant que développeur pour transformer, à long terme, cette ambition en un véritable studio de développement.
 
 ---
 
-## 🎯 Mes Objectifs & Philosophie
+## 🧪 Prototypes & Expérimentations (UE5)
 
-À travers mes projets personnels, je cherche à relever de nouveaux défis, à expérimenter différentes idées et à améliorer mes compétences techniques. J'accorde également une importance cruciale à l'organisation de mes projets et à la qualité du résultat final.
+En parallèle de mes projets principaux, je réalise de nombreux prototypes pour pousser au maximum mes compétences techniques et affiner mes méthodes de travail :
+* 🏃‍♂️ **Mouvements Avancés :** Systèmes de Sprint, Dash, Double Saut et Course sur les murs (*Wall-run*).
+* ⚙️ **Systèmes Globaux :** Systèmes d'interaction avec l'environnement, création d'interfaces utilisateur (HUD) et de menus dynamiques.
+* 🤖 **Intelligence Artificielle :** Expérimentations sur les comportements et les logiques d'attaque des ennemis.
 
-Mon objectif à long terme est de devenir **Développeur Gameplay** et de créer mon propre studio de jeux vidéo, capable de donner vie à des univers originaux et à des expériences mémorables.
+---
 
-> "Pour moi, chaque projet est une occasion d'apprendre, de progresser et de me rapprocher de cet objectif. Je suis convaincu que la passion, la persévérance et la curiosité sont essentielles pour transformer une idée en un véritable jeu vidéo."
+## 📦 Mes Outils de Travail (Templates)
+
+* 🛠️ **[TemplateUnreal5.8](https://github.com) :** Mon template de démarrage UE5 propre et optimisé pour Git (gestion complète du `.gitignore`, de Git LFS et sauvegarde permanente des couleurs de l'éditeur).
 
 ---
 
 ## 📫 Me Contacter
 
-* 💼 **Mon Portfolio :** [TheRedSky04 - GitHub](https://github.com)
+* 💼 **Mon Profil GitHub :** [TheRedSky04](https://github.com)
 * 📧 **Email :** superloucas@gmail.com
