@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Loucas Bise !
+# 👋 Salut, moi c'est Loucas Bise Westeel !
 
 Je suis développeur sur **Unreal Engine 5 (C++ / Blueprints)**. Bienvenue sur mon portfolio !
 
