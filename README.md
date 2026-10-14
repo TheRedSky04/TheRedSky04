@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Loucas Bise !
 
-<!--
-**TheRedSky04/TheRedSky04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis développeur sur **Unreal Engine 5 (C++ / Blueprints)**. Bienvenue sur mon portfolio !
 
-Here are some ideas to get you started:
+## 🛠️ Mes Compétences
+* 🎮 **Moteur :** Unreal Engine 5 (Gameplay, Systèmes, IA)
+* 💻 **Langages :** C++, Blueprints, Python
+* ⚙️ **Outils :** Git, GitHub Desktop, Visual Studio / Rider
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Mes Projets Phares
+
+### 📦 Template Unreal Engine 5.8
+*Un template de projet C++ et Blueprint propre, optimisé avec Git LFS, incluant des configurations personnalisées de dossiers.*
+> 💡 *Note : Ce projet est actuellement en cours de finalisation et sera bientôt disponible publiquement !*
