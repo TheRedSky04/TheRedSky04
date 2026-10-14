@@ -1,7 +1,7 @@
 # 👋 Salut, moi c'est Loucas Bise !
 ### 🎮 Développeur Gameplay | Fondateur de DreamStudio | Projets Unreal Engine 5
 
-Passionné par le développement de jeux vidéo, je suis un jeune développeur qui cherche constamment à apprendre, à progresser et à donner vie à ses idées.
+Passionné par le développement de jeux vidéo, je suis un jeune développeur qui cherche constamment à apprendre, à progresser et à donner vie à ses idées j'ai débuter le code à 13 ans quand mes parents mon offert mon pc.
 
 ---
 
