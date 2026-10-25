@@ -15,6 +15,13 @@ Passionné par le développement de jeux vidéo, je suis un jeune développeur q
 
 ## 🚀 Mes Projets Phares
 
+### 🌌 DreamStudio — Mon ambition dans le jeu vidéo
+*DreamStudio est la structure et la marque que je développe autour de ma passion pour la création de jeux vidéo.*
+* **Objectif :** Construire progressivement une identité forte, réaliser des projets indépendants originaux et documenter publiquement mon évolution en tant que développeur pour transformer, à long terme, cette ambition en un véritable studio de développement.
+
+### 👨‍🌾 Mission X - Jeu multijouer agriculteurs de l’espace
+*Projet de jeu de farm multijoueur basé dans l’espace...
+
 ### 🔮 Powerix — Jeu multijoueur basé sur des pouvoirs
 *Projet de jeu de combat multijoueur où les joueurs exploitent diverses capacités pour prendre l'avantage sur leurs adversaires.*
 * **Mécaniques développées :** 
@@ -22,10 +29,6 @@ Passionné par le développement de jeux vidéo, je suis un jeune développeur q
   * Projectiles physiques capables de repousser les ennemis (*Knockback*).
   * Système de déplacement rapide (*Dash*).
 * **Objectifs techniques :** Exploration approfondie de la création de compétences, gestion des temps de recharge (*Cooldowns*), intégration d'effets visuels (VFX), logiques de combat et multijoueur.
-
-### 🌌 DreamStudio — Mon ambition dans le jeu vidéo
-*DreamStudio est la structure et la marque que je développe autour de ma passion pour la création de jeux vidéo.*
-* **Objectif :** Construire progressivement une identité forte, réaliser des projets indépendants originaux et documenter publiquement mon évolution en tant que développeur pour transformer, à long terme, cette ambition en un véritable studio de développement.
 
 ---
 
@@ -40,7 +43,7 @@ En parallèle de mes projets principaux, je réalise de nombreux prototypes pour
 
 ## 📦 Mes Outils de Travail (Templates)
 
-* 🛠️ **[TemplateUnreal5.8](https://github.com) :** Mon template de démarrage UE5 propre et optimisé pour Git (gestion complète du `.gitignore`, de Git LFS et sauvegarde permanente des couleurs de l'éditeur).
+* 🛠️ **[TemplateUnreal5.8](https://github.com) :** Mon template de démarrage UE5 propre.
 
 ---
 
