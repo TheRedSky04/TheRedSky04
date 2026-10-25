@@ -20,7 +20,7 @@ Passionné par le développement de jeux vidéo, je suis un jeune développeur q
 * **Objectif :** Construire progressivement une identité forte, réaliser des projets indépendants originaux et documenter publiquement mon évolution en tant que développeur pour transformer, à long terme, cette ambition en un véritable studio de développement.
 
 ### 👨‍🌾 Mission X - Jeu multijouer agriculteurs de l’espace
-*Projet de jeu de farm multijoueur basé dans l’espace...
+*Projet de jeu de farm multijoueur basé dans l’espace...*
 
 ### 🔮 Powerix — Jeu multijoueur basé sur des pouvoirs
 *Projet de jeu de combat multijoueur où les joueurs exploitent diverses capacités pour prendre l'avantage sur leurs adversaires.*
