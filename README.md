@@ -49,5 +49,5 @@ En parallèle de mes projets principaux, je réalise de nombreux prototypes pour
 
 ##  Me Contacter
 
-*  **Mon Profil GitHub :** [TheRedSky04](https://github.com)
+*  **Mon Profil GitHub :** [TheRedSky04](https://github.com/TheRedSky04)
 *  **Email :** superloucas@gmail.com
